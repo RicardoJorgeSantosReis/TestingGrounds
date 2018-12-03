@@ -7,7 +7,7 @@
 #include "PatrolRoute.generated.h"
 
 
-UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
+UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class TESTINGGROUNDS_API UPatrolRoute : public UActorComponent
 {
 	GENERATED_BODY()
